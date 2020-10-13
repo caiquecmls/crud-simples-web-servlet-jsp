@@ -1,0 +1,7 @@
+caique\servlet\CadastroClienteServlet.class
+caique\servlet\EditarClienteServlet.class
+caique\servlet\DeleteClienteServlet.class
+caique\servlet\ListarClientesServlet.class
+caique\dao\ClienteDao.class
+caique\db\ConexaoDB.class
+caique\entidade\Cliente.class
